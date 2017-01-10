@@ -3,7 +3,7 @@
 ## Para rodar o projeto em sua máquina:
 
 1. no cmd "git clone "caminho do repositorio" "
-2. caminhe até a pasta do projeto
+2. caminhe até a pasta "ionicMap"
 3. digite "npm install"
 4. digite "ionic serve --lab"
 
@@ -20,3 +20,7 @@ ionic plugin add cordova-plugin-geolocation
 
 ```
 
+
+### *obs.: aconselho a rodar no chrome
+
+![Thumbnail of cayman](map.png)
