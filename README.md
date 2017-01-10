@@ -7,7 +7,7 @@
 3. digite "npm install"
 4. digite "ionic serve --lab"
 
-### Puglins necessarios a ser instalados no projeto
+### Puglins que foram necessarios a ser instalados no projeto
 
 ```markdown
 # puglin para validar se o usuário estar conectado a internet
